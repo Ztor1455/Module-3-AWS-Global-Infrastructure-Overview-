@@ -26,3 +26,21 @@
    + **Amazon Elastic Block Store** or **Amazon EBS** is an high performance block storage used with Amazon EC2 for both throughput and transaction-intense workloads. 
    +  **Amazon Elastic File System** or **Amazon EFS** provides fully managed elastic network file system. 
    +  **Amazon Simple Storage Services Glacier** is a secured amd low cost AWS S3 Cloud Storage for data archiving and back up.
+   +  **Amazon EC2** provides resizable compute capacity in forms of virtual machines, also the scalining service allows for adding and removing instances in users personal conditions. 
+   +  **Amazon Elastic Conatiner Service** container orchestration service that supports Docker containers and registration within the service. 
+   +  **AWS Elastic Beanstalk** deploying web applications and services on familiar servers. 
+   +  **Amazon Elastic Kubernetes Service** creates easy to deploy manage containerized apps that us 'kubernetes'.
+   +  **AWS Fargate** compute engine for ECS tha allows users to run containers without managing servers or clusters.                             
+- Database service category includes: 
+   + **Amazon Relational Database Service** provides resizable capacity and automates administartion tasks. 
+   + **Amazon Aurora** a five times faster version of MySQL databases and three times faster than PostgreSQL databases. 
+   + **Amazon Redshift** allows users to run analytic queries against petabytes of data.
+   + **Amazon Dynamo DB** a NoSQL databas that delivers single-digit millisecond performance with built-in security and restore.
+- AWS networking and content delivery services include:
+   + **Amazon VPC** allows users to access isolated sections to launch AWS resourcea in a self difined virtual network. 
+   + **Elastic Load Balancing** auto distributes incoming app traffic accrosa multiple targets. 
+   + **Amazon Cloudfront** a CDN that securely delivers data, videos, and applications. 
+   + **AWS Transit Gateway** enables connectivity to Amazon Virtual Private Clouds and on premises networks. 
+   + **Amazon Route 53** desinged to give customers a reliable way to youte end users to the internet application
+   + **AWS Direct COnnect** provides ways to establish a dedicated network. 
+   + **AWS VPN** provides secure private tunnel for networks and devices to the AWS Globale Network. 
